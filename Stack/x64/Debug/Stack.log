@@ -1,0 +1,7 @@
+﻿  IConsole.cpp
+  IFile.cpp
+  Source.cpp
+  Stack.cpp
+  Generating Code...
+C:\Users\Lenovo\Рабочий стол\ТП-3 семестр\lab_9\Stack\Stack\Stack.cpp(156): warning C4715: 'Stack::top': not all control paths return a value
+  Stack.vcxproj -> C:\Users\Lenovo\Рабочий стол\ТП-3 семестр\lab_9\Stack\x64\Debug\Stack.exe
